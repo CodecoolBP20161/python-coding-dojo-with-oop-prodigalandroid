@@ -23,7 +23,7 @@ Write a "Supplier" class, which is inherited from the Contact class.
 ## Step 5
 
 Write an "order" method for the Supplier, which has a single argument - a string.
-Store these orders in a class attribute, called all_orders, in a dictionary, where the key is the supplier name.
+Store these orders in a class attribute, called all_orders, in a dictionary, where the key is the supplier email.
 
 ## Step 6
 
